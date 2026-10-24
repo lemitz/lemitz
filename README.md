@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>English</b> · <a href="#-по-русски">Русский ↓</a> · <a href="README.ru.md">Отдельный RU-файл</a>
+  <b>English</b> · <a href="README.ru.md">Русский</a>
 </p>
 
 ---
