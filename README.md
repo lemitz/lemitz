@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Anton Parkhomenka · <code>lemitz</code></h1>
 
-<!--
-**lemitz/lemitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI-Native Systems Builder · AI Operations & Automation · Technical Pre-Sale & Product Producer</b><br>
+  Designing, orchestrating, and shipping working local-first software & self-hosted systems entirely through AI-driven development.<br>
+  <i>Human architecture & taste. AI-generated code. Real working binaries.</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://about.kobyla.by"><img src="https://img.shields.io/badge/dossier-about.kobyla.by-8b8cff" alt="about.kobyla.by"></a>
+  <a href="https://kobyla.by"><img src="https://img.shields.io/badge/main_world-kobyla.by-e8590c" alt="kobyla.by"></a>
+  <a href="https://www.linkedin.com/in/lemitz/"><img src="https://img.shields.io/badge/LinkedIn-in%2Flemitz-0077b5" alt="LinkedIn"></a>
+  <a href="https://t.me/LemiTZ"><img src="https://img.shields.io/badge/Telegram-%40LemiTZ-24c8db" alt="Telegram"></a>
+  <a href="mailto:hello@kobyla.by"><img src="https://img.shields.io/badge/email-hello%40kobyla.by-2ea043" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>English</b> · <a href="#-по-русски">Русский ↓</a> · <a href="README.ru.md">Отдельный RU-файл</a>
+</p>
+
+---
+
+### How I Build (100% AI-Driven Engineering)
+
+By education I am a linguist (English **C2**, German) — **not a traditional manual coder**. I don't type syntax line by line. Instead, I use LLMs and coding agents as a full-scale production layer ("second brain"):
+- **I own the human layer:** problem definition, system architecture, security & threat modeling, UX/UI logic, hardware/network integration, QA, and release packaging.
+- **AI handles the syntax layer:** writing implementation code across `Kotlin`, `C# / .NET`, `Rust / Tauri`, `Go`, `Flutter`, and `TypeScript` under my strict specification and verification.
+- **The result:** real, zero-telemetry software that compiles, passes tests, and runs on my own devices every single day.
+
+### Shipped AI-Driven Software & Systems
+
+| Project | Stack & Platform | Architecture & Purpose | Status / Release |
+| :--- | :--- | :--- | :--- |
+| **[Rocket](https://github.com/lemitz/Rocket)** | `Go` · `Direct2D` · `Kotlin` *(Windows 10/11 & Android 14+)* | Zero-dependency Wi-Fi file transfer ("pick files, slide, fly"). Pure stdlib Go on PC + pure platform Kotlin on Android, CRC32C verification, auto-discovery, 120 Hz/vsync rocket UI. | [![v0.2.0](https://img.shields.io/badge/release-v0.2.0-8b8cff)](https://github.com/lemitz/Rocket/releases) |
+| **[FeatherW8](https://github.com/lemitz/FeatherW8)** | `Kotlin` · `Jetpack Compose` · `Media3` · `C++/JNI` *(Android 9+)* | Offline local music player with a custom native **DSD (`DSF`/`DSDIFF`) → PCM** decoder, true-black AMOLED UI, 120 Hz support, Nothing/realme integrations. Zero network permissions. | [![v1.4.1](https://img.shields.io/badge/release-v1.4.1-3ddc84)](https://github.com/lemitz/FeatherW8/releases) |
+| **[FeatherW8-CLI](https://github.com/lemitz/FeatherW8-CLI)** | `C#` · `.NET 10` · `ASIO` · `WASAPI Exclusive` *(Windows 10/11)* | Terminal bit-perfect audio player (`MP3`, `WAV`, `FLAC`, `Ogg`, `Opus`, native `DSD` over ASIO). Built around hardware DACs (FiiO K11) — zero software resampling or mixer degradation. | [![v1.2.1](https://img.shields.io/badge/release-v1.2.1-0078d4)](https://github.com/lemitz/FeatherW8-CLI/releases) |
+| **[MDPad](https://github.com/lemitz/MDPad)** | `Rust` · `Tauri 2` · `TypeScript` · `CodeMirror 6` *(Windows 10/11)* | Instant-start native Markdown notepad. Live CommonMark/GFM split preview, automatic encoding preservation (`UTF-8`, `UTF-16`, `Windows-1251`), physical keycode shortcuts for Cyrillic layouts. | [![v1.0.3](https://img.shields.io/badge/release-v1.0.3-24c8db)](https://github.com/lemitz/MDPad/releases) |
+| **[HomeLAN_2026](https://github.com/lemitz/HomeLAN_2026)** | `Go` · `SQLCipher` · `Flutter` · `WebSockets` *(Orange Pi / Linux / Win / Android)* | Self-hosted E2E-encrypted (`X25519` + `ChaCha20-Poly1305`) LAN messenger for a closed network. Features hardware USB Master Key check, Duress Password wipe, and NTP-free time delta sync. | [![v0.5.0-rc](https://img.shields.io/badge/source-v0.5.0_RC-7f52ff)](https://github.com/lemitz/HomeLAN_2026) |
+| **[KOBYLA.BY](https://kobyla.by)** | `Nuxt 3` · `TypeScript` · `Cloudflare Pages` *(Web)* | Interactive digital laboratory: **122 content nodes**, causal routing, Windows XP desktop layer, playable Solitaire, and 16 distinct visual modes. Professional entry at **[about.kobyla.by](https://about.kobyla.by)**. | [![live](https://img.shields.io/badge/status-live-2ea043)](https://about.kobyla.by) |
+
+### Core Capabilities
+
+- **AI-Driven Prototyping & Systems Design:** Turning business/personal problems into working desktop, mobile, and server applications via structured AI orchestration — from requirements and architecture to compiled binaries and deployment.
+- **AI Operations & Workflow Automation:** Building internal tools (e.g., automated `.docx` reporting pipelines), scaling analytical synthesis, and integrating generative AI into daily operations.
+- **Technical Communication, Pre-Sale & Media:** C2 Proficient English (EF SET 86/100), German, software/game localization, video production (`Premiere Pro`, `Vegas Pro`), and organic media growth (**300,000+** organic views on single pieces).
+
+---
+
+<h2 id="-по-русски" align="center">🇷🇺 По-русски</h2>
+
+<p align="center">
+  <b>AI-Driven системный разработчик · ИИ-автоматизация · Технический Pre-Sale и продюсер проектов</b><br>
+  Проектирую архитектуру и собираю работающий локальный софт, self-hosted системы и утилиты полностью через управление ИИ-моделями.<br>
+  <i>Архитектура, ТЗ и контроль — мои. Код — сгенерирован ИИ. Результат — реальные программы на каждый день.</i>
+</p>
+
+### Метод работы (100% AI-Driven разработка)
+
+По первому образованию я лингвист (английский **C2**, немецкий), а **не классический программист, пишущий код руками**. Я не набиваю синтаксис строчка за строчкой — я использую современные ИИ-модели и агентов как полноценный производственный цех («второй мозг»):
+- **На моей стороне:** постановка задачи, проектирование клиент-серверной архитектуры и БД, продумывание логики безопасности и UX, сборка билдов, отладка на реальном железе (Orange Pi, Windows, Android, внешние ЦАП) и доведение продукта до релиза.
+- **На стороне ИИ:** генерация кода на нужном под задачу стеке (`Kotlin`, `C# / .NET`, `Rust / Tauri`, `Go`, `Flutter`, `TypeScript`) под моим жёстким архитектурным контролем.
+- **Результат:** стабильный софт без телеметрии и лишнего мусора, которым я сам пользуюсь каждый день.
+
+### Собранные AI-Driven проекты
+
+| Проект | Стек и платформа | Суть и архитектура | Статус / Релиз |
+| :--- | :--- | :--- | :--- |
+| **[Rocket](https://github.com/lemitz/Rocket)** | `Go` · `Direct2D` · `Kotlin` *(Windows 10/11 и Android 14+)* | Мгновенная переброска файлов по Wi-Fi («выбрал, сдвинул слайдер, улетело»). Чистый Go без сторонних библиотек на ПК + нативный Kotlin на Android, проверка CRC32C, автопоиск в сети. | [![v0.2.0](https://img.shields.io/badge/release-v0.2.0-8b8cff)](https://github.com/lemitz/Rocket/releases) |
+| **[FeatherW8](https://github.com/lemitz/FeatherW8)** | `Kotlin` · `Jetpack Compose` · `Media3` · `C++/JNI` *(Android 9+)* | Лёгкий офлайн-плеер с нативным декодером **DSD (`DSF`/`DSDIFF`) → PCM**, true-black AMOLED интерфейсом, поддержкой 120 Гц и интеграцией под Nothing/realme. Полностью без доступа в сеть. | [![v1.4.1](https://img.shields.io/badge/release-v1.4.1-3ddc84)](https://github.com/lemitz/FeatherW8/releases) |
+| **[FeatherW8-CLI](https://github.com/lemitz/FeatherW8-CLI)** | `C#` · `.NET 10` · `ASIO` · `WASAPI Exclusive` *(Windows 10/11)* | Терминальный bit-perfect аудиоплеер (`MP3`, `WAV`, `FLAC`, `Ogg`, `Opus`, нативный `DSD` через ASIO). Создан под внешние ЦАП (FiiO K11) — честная передача потока без ресемплинга и микшера Windows. | [![v1.2.1](https://img.shields.io/badge/release-v1.2.1-0078d4)](https://github.com/lemitz/FeatherW8-CLI/releases) |
+| **[MDPad](https://github.com/lemitz/MDPad)** | `Rust` · `Tauri 2` · `TypeScript` · `CodeMirror 6` *(Windows 10/11)* | Мгновенный нативный Markdown-блокнот. Split-превью CommonMark/GFM, автосохранение кодировок (`UTF-8`, `UTF-16`, `Windows-1251`), работа хоткеев по физическим кодам клавиш на русской раскладке. | [![v1.0.3](https://img.shields.io/badge/release-v1.0.3-24c8db)](https://github.com/lemitz/MDPad/releases) |
+| **[HomeLAN_2026](https://github.com/lemitz/HomeLAN_2026)** | `Go` · `SQLCipher` · `Flutter` · `WebSockets` *(Orange Pi / Linux / Win / Android)* | Приватный self-hosted LAN-мессенджер со сквозным шифрованием (`X25519` + `ChaCha20-Poly1305`). Аппаратный USB-ключ, пароль принуждения (экстренный вайп БД), синхронизация времени без внешнего NTP. | [![v0.5.0-rc](https://img.shields.io/badge/source-v0.5.0_RC-7f52ff)](https://github.com/lemitz/HomeLAN_2026) |
+| **[KOBYLA.BY](https://kobyla.by)** | `Nuxt 3` · `TypeScript` · `Cloudflare Pages` *(Web)* | Интерактивная цифровая система: **122 контентных узла**, граф причинных маршрутов, режим Windows XP и автономные прототипы. Профессиональное досье: **[about.kobyla.by](https://about.kobyla.by)**. | [![live](https://img.shields.io/badge/status-live-2ea043)](https://about.kobyla.by) |
+
+<p align="center">
+  <a href="https://about.kobyla.by"><b>about.kobyla.by</b></a> · <a href="mailto:hello@kobyla.by"><b>hello@kobyla.by</b></a> · <a href="https://t.me/LemiTZ"><b>@LemiTZ</b></a>
+</p>
