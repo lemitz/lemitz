@@ -22,7 +22,7 @@
 
 ### How I Build (100% AI-Driven Engineering)
 
-By education I am a linguist (English **C2**, German) — **not a traditional manual coder**. I don't type syntax line by line. Instead, I use LLMs and coding agents as a full-scale production layer ("second brain"):
+By education I am a linguist (English **C2**, German, Polish) — **not a traditional manual coder**. I don't type syntax line by line. Instead, I use LLMs and coding agents as a full-scale production layer ("second brain"):
 - **I own the human layer:** problem definition, system architecture, security & threat modeling, UX/UI logic, hardware/network integration, QA, and release packaging.
 - **AI handles the syntax layer:** writing implementation code across `Kotlin`, `C# / .NET`, `Rust / Tauri`, `Go`, `Flutter`, `TypeScript`, and `JavaScript` under my strict specification and verification.
 - **The result:** real, zero-telemetry software that compiles, passes tests, and runs on my own devices every single day.
